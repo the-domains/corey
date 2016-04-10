@@ -1,0 +1,28 @@
+name: corey
+favicon: null
+layout_spectrum: 0.5570134308654815
+typography_spectrum: 0.8979524644091725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1776554579846561
+  lightness: 0.14713966217823327
+  saturation: 0.7170332972891629
+  rhythmicContrast: 0.014870391692966223
+purpose: []
